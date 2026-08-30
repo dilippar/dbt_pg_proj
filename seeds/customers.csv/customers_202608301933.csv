@@ -1,0 +1,6 @@
+"id","first_name","last_name","email","created_at"
+1,Alice1,Nguyen,alice@example.com,2023-01-05 10:00:00.000
+2,Brian1,Smith,brian@example.com,2023-02-10 09:13:00.000
+3,Carla1,Lopez,carla@example.com,2023-03-21 15:45:00.000
+4,Diego1,Martins,diego@example.com,2023-04-12 08:05:00.000
+5,Emily1,Zhao,emily@example.com,2023-05-30 20:30:00.000
