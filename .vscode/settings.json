@@ -1,0 +1,8 @@
+{
+    "dbt.deferConfigPerProject": {
+        "": {
+            "deferToProduction": true,
+            "favorState": false
+        }
+    }
+}
